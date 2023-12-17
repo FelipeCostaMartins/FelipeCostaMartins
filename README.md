@@ -1,16 +1,27 @@
-### Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Felipe%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<!--
-**FelipeCostaMartins/FelipeCostaMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little about me:
 
-Here are some ideas to get you started:
+```javascript
+const felipe = {
+    code: [Javascript, HTML5, CSS3],
+    tools: Node,
+    age: 20,
+    from: Brazil,
+    Currently: "Transitioning careers to become a blockchain specialist"
+};
+```
+<img src="https://media1.giphy.com/media/OmxPCq8ATFXig/giphy.gif?cid=790b7611q4yzcu35wfpsmh1acy14n38aumzb799as49ovmg4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=FelipeCostaMartins&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCostaMartins&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🤝Socials:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/felipe-costa-620367236/)
+
+## Contact me
+  
+  - 📫 Contact me by my personal email: **felipecosta2407@gmail.com**
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
