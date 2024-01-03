@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Felipe%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### A little about me:
+### A little about me 👇
 
 ```javascript
 const felipe = {
