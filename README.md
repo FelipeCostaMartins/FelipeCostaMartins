@@ -11,7 +11,7 @@ const felipe = {
     Currently: "Transitioning careers to become a blockchain specialist"
 };
 ```
-
+ 
 <img src="https://media1.giphy.com/media/OmxPCq8ATFXig/giphy.gif?cid=790b7611q4yzcu35wfpsmh1acy14n38aumzb799as49ovmg4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 
 <div align="left">
