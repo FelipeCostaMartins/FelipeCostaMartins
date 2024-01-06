@@ -5,7 +5,7 @@
 ```javascript
 const felipe = {
     code: [Javascript, HTML5, CSS3],
-    tools: Node,
+    tools: [Node, Angular],
     age: 20,
     from: Brazil,
     Currently: "Transitioning careers to become a blockchain specialist"
