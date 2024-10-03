@@ -4,8 +4,8 @@
 
 ```javascript
 const felipe = {
-    frontend : [Javascript, HTML5, CSS3, Angular, TypeScript],
-    backend: [Java],
+    frontend : [HTML5, CSS3, Javascript, Angular, TypeScript],
+    backend: [Java, Node.JS],
     age: 20,
     from: "Brazil"
 };
